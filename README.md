@@ -1,6 +1,9 @@
 # Daily UI Challenge
 
-Giving animations with Framer
+Giving animations with [Framer](https://framer.com/)
+
+- Daily UI: http://www.dailyui.co/
+- Publishing at Dribbble: https://dribbble.com/haiji505
 
 ## Log
 
