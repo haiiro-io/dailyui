@@ -1,0 +1,340 @@
+{
+  "root" : {
+    "__class" : "CanvasNode",
+    "children" : [
+      {
+        "__class" : "TextNode",
+        "autoSize" : false,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "blur" : 12,
+        "blurEnabled" : 0,
+        "blurType" : "layer",
+        "bottom" : null,
+        "brightness" : 100,
+        "brightnessEnabled" : 0,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "constraintsLocked" : false,
+        "contrast" : 100,
+        "contrastEnabled" : 0,
+        "editable" : false,
+        "exportOptions" : [
+
+        ],
+        "grayscale" : 0,
+        "grayScaleEnabled" : 0,
+        "height" : 50,
+        "heightFactor" : null,
+        "hueRotate" : 0,
+        "hueRotateEnabled" : 0,
+        "id" : "oAdK~F[<",
+        "invert" : 0,
+        "invertEnabled" : 0,
+        "left" : 35,
+        "locked" : false,
+        "name" : "numfield",
+        "opacity" : 1,
+        "parentid" : "W]q+}a^N",
+        "right" : null,
+        "rotation" : 0,
+        "saturate" : 100,
+        "saturateEnabled" : 0,
+        "sepia" : 0,
+        "sepiaEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "styledText" : {
+          "__class" : "StyledTextDraft",
+          "blocks" : [
+            {
+              "data" : {
+                "emptyStyle" : [
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "COLOR:#707C74",
+                  "FONT:Futura-Light",
+                  "SIZE:50",
+                  "ALIGN:right"
+                ]
+              },
+              "depth" : 0,
+              "entityRanges" : [
+
+              ],
+              "inlineStyleRanges" : [
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "LETTERSPACING:0"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "LINEHEIGHT:1.2"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "COLOR:#707C74"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "FONT:Futura-Light"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "SIZE:50"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "ALIGN:right"
+                }
+              ],
+              "key" : "floo",
+              "text" : "0",
+              "type" : "unstyled"
+            }
+          ],
+          "entityMap" : {
+
+          }
+        },
+        "targetName" : "numfield",
+        "top" : 0,
+        "visible" : true,
+        "width" : 300,
+        "widthFactor" : null,
+        "x" : 0,
+        "y" : 0
+      },
+      {
+        "__class" : "TextNode",
+        "autoSize" : true,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "blur" : 12,
+        "blurEnabled" : 0,
+        "blurType" : "layer",
+        "bottom" : null,
+        "brightness" : 100,
+        "brightnessEnabled" : 0,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "constraintsLocked" : false,
+        "contrast" : 100,
+        "contrastEnabled" : 0,
+        "editable" : false,
+        "exportOptions" : [
+
+        ],
+        "grayscale" : 0,
+        "grayScaleEnabled" : 0,
+        "height" : 50,
+        "heightFactor" : null,
+        "hueRotate" : 0,
+        "hueRotateEnabled" : 0,
+        "id" : "qAxIrm\/X",
+        "invert" : 0,
+        "invertEnabled" : 0,
+        "left" : 0,
+        "locked" : false,
+        "name" : "sign",
+        "opacity" : 1,
+        "parentid" : "W]q+}a^N",
+        "right" : null,
+        "rotation" : 0,
+        "saturate" : 100,
+        "saturateEnabled" : 0,
+        "sepia" : 0,
+        "sepiaEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "styledText" : {
+          "__class" : "StyledTextDraft",
+          "blocks" : [
+            {
+              "data" : {
+                "emptyStyle" : [
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "COLOR:#707C74",
+                  "FONT:Futura-Light",
+                  "SIZE:50",
+                  "ALIGN:center"
+                ]
+              },
+              "depth" : 0,
+              "entityRanges" : [
+
+              ],
+              "inlineStyleRanges" : [
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "LETTERSPACING:0"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "LINEHEIGHT:1.2"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "COLOR:#707C74"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "FONT:Futura-Light"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "SIZE:50"
+                },
+                {
+                  "length" : 1,
+                  "offset" : 0,
+                  "style" : "ALIGN:center"
+                }
+              ],
+              "key" : "floo",
+              "text" : "÷",
+              "type" : "unstyled"
+            }
+          ],
+          "entityMap" : {
+
+          }
+        },
+        "targetName" : "sign",
+        "top" : 0,
+        "visible" : true,
+        "width" : 33,
+        "widthFactor" : null,
+        "x" : 0,
+        "y" : 0
+      },
+      {
+        "__class" : "TextNode",
+        "autoSize" : false,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "blur" : 12,
+        "blurEnabled" : 0,
+        "blurType" : "layer",
+        "bottom" : null,
+        "brightness" : 100,
+        "brightnessEnabled" : 0,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "constraintsLocked" : false,
+        "contrast" : 100,
+        "contrastEnabled" : 0,
+        "editable" : false,
+        "exportOptions" : [
+
+        ],
+        "grayscale" : 0,
+        "grayScaleEnabled" : 0,
+        "height" : 50,
+        "heightFactor" : null,
+        "hueRotate" : 0,
+        "hueRotateEnabled" : 0,
+        "id" : "o!tNC=q7",
+        "invert" : 0,
+        "invertEnabled" : 0,
+        "left" : 0,
+        "locked" : false,
+        "name" : "prefieldtext",
+        "opacity" : 1,
+        "parentid" : "W]q+}a^N",
+        "right" : null,
+        "rotation" : 0,
+        "saturate" : 100,
+        "saturateEnabled" : 0,
+        "sepia" : 0,
+        "sepiaEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "styledText" : {
+          "__class" : "StyledTextDraft",
+          "blocks" : [
+            {
+              "data" : {
+                "emptyStyle" : [
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "COLOR:#707C74",
+                  "FONT:Futura-Light",
+                  "ALIGN:right",
+                  "SIZE:50"
+                ]
+              },
+              "depth" : 0,
+              "entityRanges" : [
+
+              ],
+              "inlineStyleRanges" : [
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "LETTERSPACING:0"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "LINEHEIGHT:1.2"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "COLOR:#707C74"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "FONT:Futura-Light"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "ALIGN:right"
+                },
+                {
+                  "length" : 6,
+                  "offset" : 0,
+                  "style" : "SIZE:50"
+                }
+              ],
+              "key" : "floo",
+              "text" : "130000",
+              "type" : "unstyled"
+            }
+          ],
+          "entityMap" : {
+
+          }
+        },
+        "targetName" : "prefieldtext",
+        "top" : -92,
+        "visible" : true,
+        "width" : 335,
+        "widthFactor" : null,
+        "x" : 0,
+        "y" : 0
+      }
+    ],
+    "id" : "W]q+}a^N",
+    "parentid" : null
+  },
+  "version" : 13
+}
