@@ -7,6 +7,9 @@ Giving animations with [Framer](https://framer.com/)
 
 ## Log
 
+### Day 5 App Icon
+![](https://github.com/haiiro-io/dailyui/raw/master/05_icon/05.gif)
+
 ### Day 4 Calculator
 
 ![](https://github.com/haiiro-io/dailyui/raw/master/04_calculator/04.gif)
