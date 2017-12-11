@@ -1,0 +1,120 @@
+{
+  "root" : {
+    "__class" : "CanvasNode",
+    "children" : [
+      {
+        "__class" : "TextNode",
+        "autoSize" : false,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "blur" : 12,
+        "blurEnabled" : 0,
+        "blurType" : "layer",
+        "bottom" : null,
+        "brightness" : 100,
+        "brightnessEnabled" : 0,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "constraintsLocked" : false,
+        "contrast" : 100,
+        "contrastEnabled" : 0,
+        "editable" : false,
+        "exportOptions" : [
+
+        ],
+        "grayscale" : 0,
+        "grayScaleEnabled" : 0,
+        "height" : 14,
+        "heightFactor" : null,
+        "hueRotate" : 0,
+        "hueRotateEnabled" : 0,
+        "id" : "I_.UbACS",
+        "invert" : 0,
+        "invertEnabled" : 0,
+        "left" : -11,
+        "locked" : false,
+        "name" : "percent",
+        "opacity" : 1,
+        "parentid" : "`-GS1WLX",
+        "right" : null,
+        "rotation" : 0,
+        "saturate" : 100,
+        "saturateEnabled" : 0,
+        "sepia" : 0,
+        "sepiaEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "styledText" : {
+          "__class" : "StyledTextDraft",
+          "blocks" : [
+            {
+              "data" : {
+                "emptyStyle" : [
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "ALIGN:right",
+                  "SIZE:12",
+                  "FONT:__SF-UI-Text-Medium__",
+                  "COLOR:#949494"
+                ]
+              },
+              "depth" : 0,
+              "entityRanges" : [
+
+              ],
+              "inlineStyleRanges" : [
+                {
+                  "length" : 3,
+                  "offset" : 0,
+                  "style" : "LETTERSPACING:0"
+                },
+                {
+                  "length" : 3,
+                  "offset" : 0,
+                  "style" : "LINEHEIGHT:1.2"
+                },
+                {
+                  "length" : 3,
+                  "offset" : 0,
+                  "style" : "ALIGN:right"
+                },
+                {
+                  "length" : 3,
+                  "offset" : 0,
+                  "style" : "SIZE:12"
+                },
+                {
+                  "length" : 3,
+                  "offset" : 0,
+                  "style" : "FONT:__SF-UI-Text-Medium__"
+                },
+                {
+                  "length" : 3,
+                  "offset" : 0,
+                  "style" : "COLOR:#949494"
+                }
+              ],
+              "key" : "5o518",
+              "text" : "60%",
+              "type" : "unstyled"
+            }
+          ],
+          "entityMap" : {
+
+          }
+        },
+        "targetName" : "percent",
+        "top" : 0,
+        "visible" : true,
+        "width" : 60,
+        "widthFactor" : null,
+        "x" : 0,
+        "y" : 0
+      }
+    ],
+    "id" : "`-GS1WLX",
+    "parentid" : null
+  },
+  "version" : 13
+}
