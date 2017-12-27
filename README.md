@@ -1,11 +1,23 @@
 # Daily UI Challenge
 
-Giving animations with [Framer](https://framer.com/)
+Giving animations with [Framer](https://framer.com/) and [Principle](http://principleformac.com/)
 
 - Daily UI: http://www.dailyui.co/
 - Publishing at Dribbble: https://dribbble.com/haiji505
 
 ## Log
+
+## Day 11 Flash Message
+![](https://github.com/haiiro-io/dailyui/raw/master/11_FlashMessage/11.gif)
+
+## Day 10 Social Share
+![](https://github.com/haiiro-io/dailyui/raw/master/10_share/10(800x600).png)
+
+## Day 09 Music Player
+![](https://github.com/haiiro-io/dailyui/raw/master/09_musicplayer/09.png)
+
+## Day 08 404 Not Found
+![](https://github.com/haiiro-io/dailyui/raw/master/08_404/08.png)
 
 ## Day 07 Setting
 ![](https://github.com/haiiro-io/dailyui/raw/master/07_setting/07.gif)
