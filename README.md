@@ -1,6 +1,6 @@
 # Daily UI Challenge
 
-Giving animations with [Framer](https://framer.com/) and [Principle](http://principleformac.com/)
+Giving animations with [Framer](https://framer.com/) or [Principle](http://principleformac.com/)
 
 - Daily UI: http://www.dailyui.co/
 - Publishing at Dribbble: https://dribbble.com/haiji505
