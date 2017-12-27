@@ -8,10 +8,10 @@ Giving animations with [Framer](https://framer.com/) and [Principle](http://prin
 ## Log
 
 ## Day 11 Flash Message
-![](https://github.com/haiiro-io/dailyui/raw/master/11_FlashMessage/11.gif)
+![](https://github.com/haiiro-io/dailyui/raw/master/11_flash_message/11.gif)
 
 ## Day 10 Social Share
-![](https://github.com/haiiro-io/dailyui/raw/master/10_share/10(800x600).png)
+![](https://github.com/haiiro-io/dailyui/raw/master/10_social_share/10(800x600).png)
 
 ## Day 09 Music Player
 ![](https://github.com/haiiro-io/dailyui/raw/master/09_musicplayer/09.png)
