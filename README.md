@@ -7,6 +7,9 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 16 Pop-Up
+![](https://github.com/haiiro-io/dailyui/blob/master/16_popup/16.gif)
+
 ## Day 15 ON/OFF Switch
 ![](https://github.com/haiiro-io/dailyui/blob/master/15_onoff_switch/15.gif)
 
