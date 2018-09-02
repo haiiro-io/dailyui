@@ -7,6 +7,18 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 15 ON/OFF Switch
+![](https://github.com/haiiro-io/dailyui/blob/master/15_onoff_switch/15.gif)
+
+## Day 14 CountDown Timer
+![](https://github.com/haiiro-io/dailyui/blob/master/14_countdown_timer/14.png)
+
+## Day 13 Direct Message
+![](https://github.com/haiiro-io/dailyui/blob/master/13_direct_message/13.png)
+
+## Day 12 E-Commerce
+![](https://github.com/haiiro-io/dailyui/blob/master/12_e_commerce/12.png)
+
 ## Day 11 Flash Message
 ![](https://github.com/haiiro-io/dailyui/raw/master/11_flash_message/11.gif)
 
