@@ -7,6 +7,9 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 18 Analytics Chart
+![](https://github.com/haiiro-io/dailyui/blob/master/18_analytics_chart/18.png)
+
 ### Day 17 Email Receipt
 ![](https://github.com/haiiro-io/dailyui/blob/master/17_email_receipt/17.png)
 
