@@ -7,6 +7,17 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 11 - 20
+
+<details>
+<summary>View Day 11 - 20</summary>
+
+### Day 20 Location Tracker
+![](https://github.com/haiiro-io/dailyui/blob/master/20_location_tracker/20.png)
+
+### Day 19 Leaderboard
+![](https://github.com/haiiro-io/dailyui/blob/master/19_leaderboard/19.png)
+
 ### Day 18 Analytics Chart
 ![](https://github.com/haiiro-io/dailyui/blob/master/18_analytics_chart/18.png)
 
@@ -30,6 +41,7 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ### Day 11 Flash Message
 ![](https://github.com/haiiro-io/dailyui/raw/master/11_flash_message/11.gif)
+</details>
 
 ## Day 1 - 10
 
