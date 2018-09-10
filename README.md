@@ -7,6 +7,15 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 23 Onboarding
+![](https://github.com/haiiro-io/dailyui/blob/master/23_onboarding/23.gif)
+
+### Day 22 Search
+![](https://github.com/haiiro-io/dailyui/blob/master/22_search/22.gif)
+
+### Day 21 Home Monitoring Dashboard
+![](https://github.com/haiiro-io/dailyui/blob/master/21_home_monitoring_dashboard/21.png)
+
 ## Day 11 - 20
 
 <details>
