@@ -7,6 +7,9 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 24 Boarding Pass
+![](https://github.com/haiiro-io/dailyui/blob/master/24_boarding_pass/24.png)
+
 ### Day 23 Onboarding
 ![](https://github.com/haiiro-io/dailyui/blob/master/23_onboarding/23.gif)
 
