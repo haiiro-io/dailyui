@@ -7,6 +7,43 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 61 - 70
+
+<details>
+<summary>View Day 61 - 70</summary>
+
+### Day 70 Event Listing
+![](https://github.com/haiiro-io/dailyui/blob/master/70_event_listing/70.png)
+
+### Day 69 Trending
+![](https://github.com/haiiro-io/dailyui/blob/master/69_trending/69.png)
+
+### Day 68 Flight Search
+![](https://github.com/haiiro-io/dailyui/blob/master/68_flight_search/68.png)
+
+### Day 67 Hotel Booking
+![](https://github.com/haiiro-io/dailyui/blob/master/67_hotel_booking/67.png)
+
+### Day 66 Statistics
+![](https://github.com/haiiro-io/dailyui/blob/master/66_statistics/66.png)
+
+### Day 65 Notes Widget
+![](https://github.com/haiiro-io/dailyui/blob/master/65_notes_widget/65.png)
+
+### Day 64 Select User Type
+![](https://github.com/haiiro-io/dailyui/blob/master/64_select_user_type/64.png)
+
+### Day 63 Best of 2018
+![](https://github.com/haiiro-io/dailyui/blob/master/63_bestof2018/63.png)
+
+### Day 62 Workout
+![](https://github.com/haiiro-io/dailyui/blob/master/62_workout/62.png)
+
+### Day 61 Redeem Coupon
+![](https://github.com/haiiro-io/dailyui/blob/master/61_redeem_coupon/61.png)
+
+</details>
+
 ## Day 51 - 60
 
 <details>
