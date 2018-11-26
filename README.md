@@ -7,6 +7,43 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 51 - 60
+
+<details>
+<summary>View Day 51 - 60</summary>
+
+### Day 60 Color Picker
+![](https://github.com/haiiro-io/dailyui/blob/master/60_color_picker/60.png)
+
+### Day 59 Background Pattern
+![](https://github.com/haiiro-io/dailyui/tree/master/59_background_pattern)
+
+### Day 58 Shopping Card
+![](https://github.com/haiiro-io/dailyui/blob/master/58_shopping_cart/58.png)
+
+### Day 57 Video Player
+![](https://github.com/haiiro-io/dailyui/blob/master/57_video_player/57.png)
+
+### Day 56 Breadcrumb
+![](https://github.com/haiiro-io/dailyui/blob/master/56_breadcrumb/56.gif)
+
+### Day 55 Icon Set
+![](https://github.com/haiiro-io/dailyui/blob/master/55_icon_set/55.png)
+
+### Day 54 Confirmation
+![](https://github.com/haiiro-io/dailyui/blob/master/54_confirmation/54.png)
+
+### Day 53 Header Navigation
+![](https://github.com/haiiro-io/dailyui/blob/master/53_header_navigation/53.png)
+
+### Day 52 Logo
+![](https://github.com/haiiro-io/dailyui/blob/master/52_logo/52.png)
+
+### Day 51 Press Page
+![](https://github.com/haiiro-io/dailyui/blob/master/51_press_page/51_2.png)
+
+</details>
+
 ## Day 41 - 50
 
 <details>
