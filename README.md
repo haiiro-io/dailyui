@@ -7,6 +7,43 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 41 - 50
+
+<details>
+<summary>View Day 41 - 50</summary>
+
+### Day 50 Job Listing
+![](https://github.com/haiiro-io/dailyui/blob/master/50_job_listing/50.png)
+
+### Day 49 Notifications
+![](https://github.com/haiiro-io/dailyui/blob/master/49_notifications/49.png)
+
+### Day 48 Coming Soon
+![](https://github.com/haiiro-io/dailyui/blob/master/48_coming_soon/48.png)
+
+### Day 47 Activity Feed
+![](https://github.com/haiiro-io/dailyui/blob/master/47_activity_feed/47.png)
+
+### Day 46 Invoice
+![](https://github.com/haiiro-io/dailyui/blob/master/46_invoice/46_5.png)
+
+### Day 45 Info Card
+![](https://github.com/haiiro-io/dailyui/blob/master/45_info_card/45.png)
+
+### Day 44 Favorites
+![](https://github.com/haiiro-io/dailyui/blob/master/44_favorites/44.gif)
+
+### Day 43 Food Drink Menu
+![](https://github.com/haiiro-io/dailyui/blob/master/43_food_drink_menu/43.gif)
+
+### Day 42 ToDo List
+![](https://github.com/haiiro-io/dailyui/blob/master/42_todo_list/42.gif)
+
+### Day 41 Workout Tracker
+![](https://github.com/haiiro-io/dailyui/blob/master/41_workout_tracker/41.png)
+
+</details>
+
 ## Day 31 - 40
 
 <details>
