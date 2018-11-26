@@ -7,6 +7,18 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 84 Badge
+![](https://github.com/haiiro-io/dailyui/blob/master/84_badge/84.png)
+
+### Day 83 Button
+![](https://github.com/haiiro-io/dailyui/blob/master/83_button/83.gif)
+
+### Day 82 Form
+![](https://github.com/haiiro-io/dailyui/blob/master/82_form/82.jpg)
+
+### Day 81 Status Update
+![](https://github.com/haiiro-io/dailyui/blob/master/81_status_update/81.png)
+
 ## Day 71 - 80
 
 <details>
