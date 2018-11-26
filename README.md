@@ -7,6 +7,29 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 21 - 30
+
+<details>
+<summary>View Day 21 - 30</summary>
+
+### Day 30 Pricing
+![](https://github.com/haiiro-io/dailyui/blob/master/30_pricing/30.gif)
+
+### Day 29 Map
+![](https://github.com/haiiro-io/dailyui/blob/master/29_map/29.png)
+
+### Day 28 Contact Us
+![](https://github.com/haiiro-io/dailyui/blob/master/28_contact_us/28_animation.gif)
+
+### Day 27 Dropdown
+![](https://github.com/haiiro-io/dailyui/blob/master/27_dropdown/27.gif)
+
+### Day 26 Subscribe
+![](https://github.com/haiiro-io/dailyui/blob/master/26_subscribe/26_2.gif)
+
+### Day 25 TV app
+![](https://github.com/haiiro-io/dailyui/blob/master/25_tvapp/25.jpg)
+
 ### Day 24 Boarding Pass
 ![](https://github.com/haiiro-io/dailyui/blob/master/24_boarding_pass/24.png)
 
@@ -18,6 +41,7 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ### Day 21 Home Monitoring Dashboard
 ![](https://github.com/haiiro-io/dailyui/blob/master/21_home_monitoring_dashboard/21.png)
+</details>
 
 ## Day 11 - 20
 
