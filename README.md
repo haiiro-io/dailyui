@@ -7,6 +7,43 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 71 - 80
+
+<details>
+<summary>View Day 71 - 80</summary>
+
+### Day 80 Date Picker
+![](https://github.com/haiiro-io/dailyui/blob/master/80_date_picker/80.gif)
+
+### Day 79 Itinerary
+![](https://github.com/haiiro-io/dailyui/blob/master/79_itinerary/79.png)
+
+### Day 78 Pending Invigation
+![](https://github.com/haiiro-io/dailyui/blob/master/78_pending_invitation/78.png)
+
+### Day 77 Thank You
+![](https://github.com/haiiro-io/dailyui/blob/master/77_thankyou/77.gif)
+
+### Day 76 Loading
+![](https://github.com/haiiro-io/dailyui/blob/master/76_loading/76.gif)
+
+### Day 75 Pre Order
+![](https://github.com/haiiro-io/dailyui/blob/master/75_pre_order/75.png)
+
+### Day 74 Download
+![](https://github.com/haiiro-io/dailyui/blob/master/74_download_app/74.png)
+
+### Day 73 VR
+![](https://github.com/haiiro-io/dailyui/blob/master/73_vr/73.png)
+
+### Day 72 Image Slider
+![](https://github.com/haiiro-io/dailyui/blob/master/72_image_slider/72.png)
+
+### Day 71 Schedule
+![](https://github.com/haiiro-io/dailyui/blob/master/71_schedule/71.png)
+
+</details>
+
 ## Day 61 - 70
 
 <details>
