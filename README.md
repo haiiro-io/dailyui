@@ -7,6 +7,43 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+## Day 31 - 40
+
+<details>
+<summary>View Day 31 - 40</summary>
+
+### Day 40 Recipe
+![](https://github.com/haiiro-io/dailyui/blob/master/40_recipe/40.png)
+
+### Day 39 Testimonials
+![](https://github.com/haiiro-io/dailyui/blob/master/39_testimonials/39.png)
+
+### Day 38 Celandar
+![](https://github.com/haiiro-io/dailyui/blob/master/38_calendar/38.png)
+
+### Day 37 Weather
+![](https://github.com/haiiro-io/dailyui/blob/master/37_weather/37.png)
+
+### Day 36 Special Offer
+![](https://github.com/haiiro-io/dailyui/blob/master/36_special_offer/36.png)
+
+### Day 35 Blog Post
+![](https://github.com/haiiro-io/dailyui/blob/master/35_blog_post/35.jpg)
+
+### Day 34 Car Interface
+![](https://github.com/haiiro-io/dailyui/blob/master/34_car_interface/34.jpg)
+
+### Day 33 Customize Product
+![](https://github.com/haiiro-io/dailyui/blob/master/33_customize_product/33.png)
+
+### Day 32 Crowdfunding Campaign
+![](https://github.com/haiiro-io/dailyui/blob/master/32_crowdfunding_campaign/32.png)
+
+### Day 31 File Upload
+![](https://github.com/haiiro-io/dailyui/blob/master/31_file_upload/31.jpg)
+
+</details>
+
 ## Day 21 - 30
 
 <details>
