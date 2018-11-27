@@ -7,6 +7,9 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 85 Pagination
+![](https://github.com/haiiro-io/dailyui/blob/master/85_pagination/85.gif)
+
 ### Day 84 Badge
 ![](https://github.com/haiiro-io/dailyui/blob/master/84_badge/84.png)
 
