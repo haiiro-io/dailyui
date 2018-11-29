@@ -7,6 +7,12 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 87 Tooltip
+![](https://github.com/haiiro-io/dailyui/blob/master/87_tooltip/87.gif)
+
+### Day 86 Progress Bar
+![](https://github.com/haiiro-io/dailyui/blob/master/86_progress_bar/86.png)
+
 ### Day 85 Pagination
 ![](https://github.com/haiiro-io/dailyui/blob/master/85_pagination/85.gif)
 
