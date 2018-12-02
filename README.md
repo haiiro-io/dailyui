@@ -7,6 +7,12 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 90 Create New
+![](https://github.com/haiiro-io/dailyui/blob/master/90_create_new/90.gif)
+
+### Day 89 Terms of Service
+![](https://github.com/haiiro-io/dailyui/blob/master/89_terms_of_service/89.png)
+
 ### Day 88 Avatar
 ![](https://github.com/haiiro-io/dailyui/blob/master/88_avatar/88.png)
 
