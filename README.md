@@ -7,6 +7,39 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ## Log
 
+### Day 100 Redesign Daily UI Landing Page
+![](https://github.com/haiiro-io/dailyui/blob/master/100_redesign_dailyui/100.png)
+
+### Day 99 Categories
+![](https://github.com/haiiro-io/dailyui/blob/master/99_categories/99.jpg)
+
+### Day 98 Advertisement
+![](https://github.com/haiiro-io/dailyui/blob/master/98_Advertisement/98.jpg)
+
+### Day 97 Giveaway
+![](https://github.com/haiiro-io/dailyui/blob/master/97_giveaway/97.png)
+
+### Day 96 Currently in Stock
+![](https://github.com/haiiro-io/dailyui/blob/master/96_currently_in_stock/96.jpg)
+
+### Day 95 Product Tour
+![](https://github.com/haiiro-io/dailyui/blob/master/95_product_tour/95.gif)
+
+### Day 94 News
+![](https://github.com/haiiro-io/dailyui/blob/master/94_news/94.gif)
+
+### Day 93 Splash
+![](https://github.com/haiiro-io/dailyui/blob/master/93_splash/93.gif)
+
+### Day 92 F.A.Q
+![](https://github.com/haiiro-io/dailyui/blob/master/92_faq/92.png)
+
+### Day 91 Curated for You
+![](https://github.com/haiiro-io/dailyui/blob/master/91_curated_for_you/91.jpg)
+
+<details>
+<summary>View Day 81 - 90</summary>
+
 ### Day 90 Create New
 ![](https://github.com/haiiro-io/dailyui/blob/master/90_create_new/90.gif)
 
@@ -36,6 +69,8 @@ Giving animations with [Framer](https://framer.com/) or [Principle](http://princ
 
 ### Day 81 Status Update
 ![](https://github.com/haiiro-io/dailyui/blob/master/81_status_update/81.png)
+
+</details>
 
 ## Day 71 - 80
 
